@@ -1,0 +1,14 @@
+header{
+    height: 250px;
+    background-color: aqua;
+}
+
+main{
+    height: 500px;
+    background-color: aquamarine;
+}
+
+footer{
+    height: 250px;
+    background-color: azure;
+}
