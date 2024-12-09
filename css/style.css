@@ -1,7 +1,7 @@
 header{
     /*height: 100px;*/
     padding: auto;
-    background-color: aqua;
+    background-color: rgb(241, 28, 13)
     display: flex;
     justify-content: space-between;
 }
@@ -17,7 +17,7 @@ header{
 }
 main{
     height: 400px;
-    background-color: aquamarine;
+    background-color: whitesmoke;
     display: flex;
     justify-items: center;
     justify-content: space-between; 
@@ -32,8 +32,8 @@ main{
 
 
 footer{
-    height: 250px;
-    background-color: azure;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.432);
 }
 
 
