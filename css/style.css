@@ -1,14 +1,28 @@
 header{
     height: 250px;
     background-color: aqua;
+    display: flex;
+    justify-content: space-around;
 }
 
 main{
     height: 500px;
     background-color: aquamarine;
+    display: flex;
+    justify-items: center;
 }
+
+.card{
+    height: 200px;
+    width: 200px;
+
+}
+
+
 
 footer{
     height: 250px;
     background-color: azure;
 }
+
+
