@@ -10,11 +10,12 @@ main{
     background-color: aquamarine;
     display: flex;
     justify-items: center;
+    justify-content: space-between; 
 }
 
 .card{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
 
 }
 
