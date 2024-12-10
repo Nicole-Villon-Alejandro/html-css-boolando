@@ -1,9 +1,8 @@
 header{
     /*height: 100px;*/
-    padding: auto;
-    background-color: rgb(241, 28, 13)
+    padding: 15px;
+    background-color: orange;
     display: flex;
-    justify-content: space-between;
 }
 
 .flex{
@@ -11,9 +10,16 @@ header{
     justify-content: space-around;
     align-items: center;
 }
+
+.menu ul{
+    display: flex;
+    column-gap: 20px;
+    list-style-type: none;
+}
+
 .logo{
-    height: 15px;
-    width: 70px;
+    height: 20px;
+    width: 100px;
 }
 main{
     height: 400px;
